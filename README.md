@@ -1,10 +1,10 @@
 # Inmersion Data_Science Alura_Latam
- <em>#Resultado de 4 clases de Inmersión a Data Science Alura Latam</em>
- 	*[Descripción del proyecto:]  
-	Nombre del archivo: Inmersion_Datos_Aula1.ipynb  
-	Tipo de Archivo: ipynb  
-	Aplicación de origen: Google Colab  
-	Temas abordados:  
+ <em>#Resultado de 4 clases de Inmersión a Data Science Alura Latam</em>  
+ 	**[Descripción del proyecto:]**  
+	**Nombre del archivo:** Inmersion_Datos_Aula1.ipynb  
+	**Tipo de Archivo:** ipynb  
+	**Aplicación de origen:** Google Colab  
+	**Temas abordados:**  
 	> Montar un drive en Pandas  
 	> Cargar base de datos (.csv)  
 	> Consultar atributos, tipo de dataframe, cortar y filtrar un dataframe, unir dos dataframe, agrupar valores  
