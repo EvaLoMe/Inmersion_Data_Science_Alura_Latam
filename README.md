@@ -5,16 +5,16 @@
 	Tipo de Archivo: ipynb  
 	Aplicación de origen: Google Colab  
 	Temas abordados:  
-	> Montar un drive en Pandas
-	> Cargar base de datos (.csv)
-	> Consultar atributos, tipo de dataframe, cortar y filtrar un dataframe, unir dos dataframe, agrupar valores
-	> Obtener una muestra
-	> Obtener moda, media, mediana, máximo, mínimo
-	> Correlación de variables
-	> Importar bibliotecas: Seaborn, Matplotlib, 
-	> Generar gráficas e interpretarlas (Histograma, boxplot)
-	> Crear un diccionario
-	> Realizar una query
+	> Montar un drive en Pandas  
+	> Cargar base de datos (.csv)  
+	> Consultar atributos, tipo de dataframe, cortar y filtrar un dataframe, unir dos dataframe, agrupar valores  
+	> Obtener una muestra  
+	> Obtener moda, media, mediana, máximo, mínimo  
+	> Correlación de variables  
+	> Importar bibliotecas: Seaborn, Matplotlib,   
+	> Generar gráficas e interpretarlas (Histograma, boxplot)  
+	> Crear un diccionario  
+	> Realizar una query  
 	> Machine Learning (Linear Regression)  
 	
 	*[Desarrollado por:] (#Eva Minerva López Medina)  
